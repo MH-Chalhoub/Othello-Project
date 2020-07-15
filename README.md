@@ -20,4 +20,4 @@ Create Othello game, with three modes:
 1. Install the application found in [02 - APK] on a android device.
 2. To learn how to play Othello you can check this site https://www.mastersofgames.com/rules/reversi-othello-rules.htm .
 
-###### The Idea of Dr. Kifah Tout
+###### The Idea of Dr. Kifah Tout & Rami Baida
